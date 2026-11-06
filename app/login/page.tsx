@@ -85,7 +85,6 @@ export default function Page() {
                             <EyeDisabled />
                         </InputGroupAddon>
                         <InputGroupInput id='password' type='password' placeholder='pass' />
-                        <InputGroupAddon align='inline-end'>@company.com</InputGroupAddon>
                     </InputGroup>
                 </DialogBody>
                 <DialogFooter >
