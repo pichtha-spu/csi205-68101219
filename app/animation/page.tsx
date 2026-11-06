@@ -29,7 +29,7 @@ const FIELD_IMAGE = '/field.jpg' // ภาพสนาม
 
 const ballImages: Record<BallType, string | null> = {
   none: null,
-  basketball: '/basketball.png',
+  basketball: '/Basketball.png',
   football: '/football.png',
   volleyball: '/volleyball.png',
   face: '/face.png',
